@@ -20,6 +20,43 @@
 - Blogs of a particular category can be viewed
 
 
+## Screenshots
+
+Screens from a local run with sample data (1440 × 900).
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="docs/screenshots/01-all-blogs.png" width="420" alt="All blogs page"><br>
+      <b>All blogs</b><br><sub>Post cards, pages and category counts</sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="docs/screenshots/02-blog-post.png" width="420" alt="A blog post"><br>
+      <b>Blog post</b><br><sub>Cover, author, category and reactions</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="docs/screenshots/03-reactions-comments.png" width="420" alt="Reactions and comments"><br>
+      <b>Reactions and comments</b><br><sub>Reaction counts and the comment box</sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="docs/screenshots/05-write-blog.png" width="420" alt="Write blog form"><br>
+      <b>Write a blog</b><br><sub>Cover image, title, category and body</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="docs/screenshots/06-profile.png" width="420" alt="Blogger profile"><br>
+      <b>Profile</b><br><sub>The blogger's details, posts and categories</sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="docs/screenshots/04-login.png" width="420" alt="Login page"><br>
+      <b>Login</b><br><sub>Token-based sign in</sub>
+    </td>
+  </tr>
+</table>
+
 # Getting started
 
 ## How to install & run:
